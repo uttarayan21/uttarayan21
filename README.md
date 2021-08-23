@@ -8,4 +8,4 @@ Currently I use [ArchLinux](https://archlinux.org) (the aur is awesome) with bsp
 
 I’m currently learning [rust](https://www.rust-lang.org/).  
 
-You can reach me on my [email](mailto:uttarayan21@disroot.org).
+You can reach me on my [email](mailto:email@uttarayan21.me).
